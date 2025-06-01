@@ -1,13 +1,13 @@
 # Statistics-Lab-Tasks-and-Project-Spring-2025-
 
-📝 Information
+## 📝 Information
 
 Name: Ajher Mahmud Robin
 
 Course Title: Simulation and Modeling Lab
 
 
-📖 Overview
+## 📖 Overview
 
 This repository gathers all Simulation and Modeling Lab tasks in one centralized location. Throughout the semester, we will:
 
@@ -22,7 +22,7 @@ Lay the groundwork for more advanced topics in Data Science and Machine Learning
 By the end of this course, you’ll be comfortable with numerical computations, data manipulation, and creating publication-quality visualizations in Python.
 
 
-📚 Tools & Libraries
+## 📚 Tools & Libraries
 
 Python 3.8+
 
@@ -39,7 +39,7 @@ SciPy: Scientific computing (required for certain statistical tests).
 Google Colab: Development Environment.
 
 
-📝 Acknowledgments & Further Reading
+## 📝 Acknowledgments & Further Reading
 
 Python Official Documentation: https://docs.python.org/3/
 
