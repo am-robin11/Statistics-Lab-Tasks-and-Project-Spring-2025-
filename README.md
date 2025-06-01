@@ -1,2 +1,7 @@
 # Statistics-Lab-Tasks-and-Project-Spring-2025-
-An introduction to Statistics using Python
+
+📝 Student Information
+
+Name: Ajher Mahmud Robin
+
+Course Title: Simulation and Modeling Lab
